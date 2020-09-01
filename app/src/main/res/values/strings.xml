@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tables</string>
+    <string name="table">TABLE</string>
+    <string name="table_upto">TABLE UPTO</string>
+    <string name="show_table">SHOW TABLE</string>
+    <string name="table_entry">TABLE TO SHOW HERE</string>
+</resources>
